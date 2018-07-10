@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/chenzan/work/Version_3/net/vgg_16_3layers.ckpt"
+all_model_checkpoint_paths: "/home/chenzan/work/Version_3/net/vgg_16_3layers.ckpt"
